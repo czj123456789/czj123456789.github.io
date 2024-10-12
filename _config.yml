@@ -1,10 +1,10 @@
 # Site settings
-title: czj三叶草国际语
-SEOTitle: czj三叶草国际语 - 让沟通更容易
+title: 浅暖的博客
+SEOTitle: 浅暖的博客
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "czj中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界sdfsdfssdf语, 三叶草国际语, 三叶语"
+description: "浅暖的博客"
+keyword: "浅暖的博客"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
